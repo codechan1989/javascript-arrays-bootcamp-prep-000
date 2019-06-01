@@ -5,7 +5,7 @@ return [element, ...array]
 }
 
 function destructivelyaddElementToBeginningOfArray(array, element) {
-return array, chocolateBars.unshift("element")
+return chocolateBars.unshift("element")
 }
 
 function addElementToEndOfArray(array, element)  {
