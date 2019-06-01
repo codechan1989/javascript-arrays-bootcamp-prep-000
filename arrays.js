@@ -13,5 +13,5 @@ return [...array, element]
 }
 
 function accessElementInArray(array, index) {
-  console.log(chocolateBars["element"])
+  console.log(chocolateBars[3])
 }
