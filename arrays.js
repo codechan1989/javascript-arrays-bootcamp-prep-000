@@ -19,5 +19,5 @@ return array
 }
 
 function accessElementInArray(array, index) {
- return console.log[array(index)]
+ console.log[array(index)]
 }
