@@ -19,7 +19,7 @@ return array
 }
 
 function accessElementInArray(array, index) {
-  console.log(index)
-  return array 
+ return console.log(index)
+ 
   
 }
