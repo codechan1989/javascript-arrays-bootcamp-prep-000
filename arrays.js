@@ -38,5 +38,5 @@ function removeElementFromBeginningOfArray(array) {
 }
 
 function removeElementFromEndOfArray(array) {
-  return array.slice(0, chocolateBars.length - 1)
+  return array.slice(0, array.length - 1)
 }
