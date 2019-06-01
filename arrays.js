@@ -9,7 +9,7 @@ return chocolateBars.unshift("element")
 }
 
 function addElementToEndOfArray(array, element)  {
-return 
+return [...array, element]
 }
 
 function accessElementInArray(array, index) {
